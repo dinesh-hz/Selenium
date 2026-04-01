@@ -37,15 +37,15 @@ pipeline {
             }
         }
 
-        stage('Publish Extent Report') {
+         stage('Publish Extent Report') {
             steps {
                 publishHTML(target: [
                     allowMissing: false,
                     alwaysLinkToLastBuild: true,
                     keepAll: true,
-                    reportDir: 'target/extent-report',   // ✅ FIXED
-                    reportFiles: '*.html',
-                    reportName: 'Extent Spark HTML Report'
+                    reportDir: 'target/extent-reports',
+                    reportFiles: 'extent.html',
+                    reportName: 'Extent Report'
                 ])
             }
         }
