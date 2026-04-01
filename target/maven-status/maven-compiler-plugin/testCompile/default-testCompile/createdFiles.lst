@@ -1,0 +1,5 @@
+Helpers\Hooks.class
+StepDefinition\SingupPageDefinitions.class
+StepDefinition\LoginPageDefinitions.class
+runners\TEST_RUNNER.class
+Helpers\CucumberJVMReportGenerator.class
