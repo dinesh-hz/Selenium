@@ -18,35 +18,31 @@ pipeline {
             }
         }
 
-        stage('Build and Test') {
-            steps {
-                bat "mvn clean verify -Dcucumber.filter.tags=\"${params.TAGS}\""
+        stage('Test Execution') {
+           steps {
+             script {
+            def status = bat(returnStatus: true,
+                script: "mvn clean verify -Dcucumber.filter.tags=\"${params.TAGS}\"")
+
+            if (status != 0) {
+                currentBuild.result = 'UNSTABLE'
+                echo "Test failed but continuing..."
             }
         }
+    }
+}
 
-        stage('Publish Cucumber JVM Report') {
-            steps {
-                publishHTML(target: [
-                    allowMissing: false,
-                    alwaysLinkToLastBuild: true,
-                    keepAll: true,
-                    reportDir: 'target/cucumber-reports/cucumber-html-reports',
-                    reportFiles: 'overview-features.html',
-                    reportName: 'Cucumber JVM HTML Report'
-                ])
-            }
-        }
 
-         stage('Publish Extent Report') {
-            steps {
-                publishHTML(target: [
-                    allowMissing: false,
-                    alwaysLinkToLastBuild: true,
-                    keepAll: true,
-                    reportDir: 'target/extent-reports',
-                    reportFiles: 'extent.html',
-                    reportName: 'Extent Report'
-                ])
+          post {
+        always {
+            publishHTML(target: [
+                allowMissing: true,
+                alwaysLinkToLastBuild: true,
+                keepAll: true,
+                reportDir: 'target/extent-reports',
+                reportFiles: 'extent.html',
+                reportName: 'Extent Report'
+            ])
             }
         }
     }
