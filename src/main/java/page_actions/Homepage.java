@@ -7,10 +7,10 @@ public class Homepage extends Bass_Class {
 
 	Home_Locaters Locators = new Home_Locaters();
 
-	public String verifyHomepage() {
+	public  void verifyHomepage() {
 
 		// String expextext = "Dashboard";
-		return Locators.Dashboard.getText();
+		//return Locators.Dashboard.getText();
 
 	}
 
