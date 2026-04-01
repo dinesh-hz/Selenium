@@ -13,6 +13,7 @@ Feature: login page
     Then user click the login button
     And user should see homepage "Dashboard"
 
+@hai
   Scenario: verify login with an invalid credentials
     Given user entre the invalid username and password
     Then user click the login button
