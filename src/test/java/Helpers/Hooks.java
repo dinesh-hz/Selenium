@@ -53,7 +53,7 @@ public class Hooks extends Driver_manger {
 		logger.info("Browser launched successfully.");
 	}
 
-	@After(order = 2)
+	@After(order = 1)
 	public void setup_down_Browser() {
 		if (Driver_manger.getDriver() != null) {
 			Driver_manger.getDriver().quit(); // Close browser
@@ -64,7 +64,7 @@ public class Hooks extends Driver_manger {
 		}
 	}
 
-	@After(order = 1)
+	@After(order = 0)
 	public void takeScreenshotOnFailure(Scenario scenario) {
 
 	    if (scenario.isFailed()) {

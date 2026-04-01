@@ -1,84 +1,44 @@
-2026-03-31 10:09:32,321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
-2026-03-31 10:09:32,373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
-2026-03-31 10:09:32,381 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2026-03-31 10:09:32,382 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,386 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,387 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,391 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,392 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,400 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2026-03-31 10:09:32,434 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
-2026-03-31 10:09:32,468 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 27 ms.
-2026-03-31 10:09:32,489 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
-2026-03-31 10:09:32,496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,498 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2026-03-31 10:09:32,530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,531 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,532 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,533 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,537 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,537 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
-2026-03-31 10:09:32,543 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2026-03-31 10:09:32,546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2026-03-31 10:09:32,548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2026-03-31 10:09:32,578 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--1833901418\testng-customsuite.xml
+2026-04-01 06:13:51,135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-01 06:13:51,183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-04-01 06:13:51,190 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,190 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,194 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2026-04-01 06:13:51,239 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-01 06:13:51,241 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-01 06:13:51,244 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,244 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,246 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,254 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,254 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,257 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2026-04-01 06:13:51,276 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-01 06:13:51,279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-01 06:13:51,280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-01 06:13:51,320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-582883073\testng-customsuite.xml
 
-2026-03-31 10:09:32,649 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 21 ms.
-2026-03-31 10:09:46,790 [main] INFO  Helpers.Hooks - Browser launched successfully.
-2026-03-31 10:10:01,886 [main] INFO  Helpers.Hooks - done
-2026-03-31 10:10:12,963 [main] INFO  Helpers.Hooks -  Browser closed.
-2026-03-31 10:10:13,985 [main] WARN  net.masterthought.cucumber.ReportBuilder - Unexpected error
-net.masterthought.cucumber.ValidationException: File 'target/cucumber-reports/cucumber.json' is not a valid Cucumber report! No content to map due to end-of-input
- at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1]
-	at net.masterthought.cucumber.ReportParser.parseForFeature(ReportParser.java:104) ~[cucumber-reporting-5.8.4.jar:?]
-	at net.masterthought.cucumber.ReportParser.parseJsonFiles(ReportParser.java:71) ~[cucumber-reporting-5.8.4.jar:?]
-	at net.masterthought.cucumber.ReportBuilder.generateReports(ReportBuilder.java:97) ~[cucumber-reporting-5.8.4.jar:?]
-	at Helpers.CucumberJVMReportGenerator.generateReport(CucumberJVMReportGenerator.java:39) ~[test-classes/:?]
-	at runners.TEST_RUNNER.generateReport(TEST_RUNNER.java:33) ~[test-classes/:?]
-	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
-	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:229) ~[testng-7.8.0.jar:7.8.0]
-	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:215) ~[testng-7.8.0.jar:7.8.0]
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:131) ~[testng-7.8.0.jar:7.8.0]
-	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
-	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
-	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
-	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
-	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
-2026-03-31 10:10:21,097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@45d46254: 79 ms
-2026-03-31 10:10:21,341 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@72c704f1: 242 ms
-2026-03-31 10:10:21,342 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@76f9e000: 1 ms
-2026-03-31 10:10:21,372 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6edd4fe2: 29 ms
-2026-03-31 10:10:21,395 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@612ac38b: 22 ms
-2026-03-31 10:10:21,408 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7981963f: 13 ms
-2026-03-31 10:10:21,408 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31e3c34: 0 ms
-2026-03-31 20:12:10,271 [main] INFO  Helpers.Hooks - Browser launched successfully.
-2026-03-31 20:12:27,224 [main] INFO  Helpers.Hooks - done
-2026-03-31 20:12:38,505 [main] INFO  Helpers.Hooks -  Browser closed.
-2026-03-31 20:19:15,154 [main] INFO  Helpers.Hooks - Browser launched successfully.
-2026-03-31 20:19:31,121 [main] INFO  Helpers.Hooks - done
-2026-03-31 20:19:39,733 [main] INFO  Helpers.Hooks -  Browser closed.
-2026-03-31 20:19:53,605 [Helpers.CucumberJVMReportGenerator.main()] INFO  net.masterthought.cucumber.ReportParser - File 'target/cucumber-reports/cucumber.json' contains 1 feature(s)
+2026-04-01 06:13:51,373 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 16 ms.
+2026-04-01 06:14:06,130 [main] INFO  Helpers.Hooks - Browser launched successfully.
+2026-04-01 06:14:17,692 [main] INFO  Helpers.Hooks - done
+2026-04-01 06:14:26,017 [main] INFO  Helpers.Hooks -  Browser closed.
+2026-04-01 06:14:31,653 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@538aa83f: 106 ms
+2026-04-01 06:14:31,895 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@46a388cc: 241 ms
+2026-04-01 06:14:31,898 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3e39f08c: 2 ms
+2026-04-01 06:14:31,948 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@605eb072: 49 ms
+2026-04-01 06:14:31,976 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@702f4124: 27 ms
+2026-04-01 06:14:31,994 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3a70575: 18 ms
+2026-04-01 06:14:31,995 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5d96d434: 0 ms
