@@ -14,7 +14,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/dinesh-hz/runover.git'
+                git 'https://github.com/dinesh-hz/Selenium.git'
             }
         }
 
