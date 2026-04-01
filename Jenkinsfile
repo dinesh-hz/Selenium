@@ -19,21 +19,20 @@ pipeline {
         }
 
         stage('Test Execution') {
-           steps {
-             script {
-            def status = bat(returnStatus: true,
-                script: "mvn clean verify -Dcucumber.filter.tags=\"${params.TAGS}\"")
+            steps {
+                script {
+                    def status = bat(returnStatus: true,
+                        script: "mvn clean verify -Dcucumber.filter.tags=\"${params.TAGS}\"")
 
-            if (status != 0) {
-                currentBuild.result = 'UNSTABLE'
-                echo "Test failed but continuing..."
+                    if (status != 0) {
+                        currentBuild.result = 'UNSTABLE'
+                    }
+                }
             }
         }
     }
-}
 
-
-          post {
+    post {
         always {
             publishHTML(target: [
                 allowMissing: true,
@@ -43,7 +42,6 @@ pipeline {
                 reportFiles: 'extent.html',
                 reportName: 'Extent Report'
             ])
-            }
         }
     }
 }
